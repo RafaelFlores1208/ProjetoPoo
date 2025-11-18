@@ -31,7 +31,7 @@ pedido_service.adicionar_item(pedido, suco, 2)
 pedido_service.adicionar_item(pedido, agua, 1)
 pedido_service.adicionar_item(pedido, burger, 1)
 
-# output
+# testes
 print("===== RESUMO DO PEDIDO =====")
 print(f"Cliente: {cliente.nome}")
 print(f"Mesa: {mesa.numero}")
